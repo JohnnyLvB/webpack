@@ -1,0 +1,1 @@
+documentd .getElementById('title').innerHTML='Hello Webpack';
