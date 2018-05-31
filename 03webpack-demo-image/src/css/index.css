@@ -1,0 +1,9 @@
+body {
+  background-color: antiquewhite;
+  font-size: 24px;
+  text-align: center;
+  background-image: url(../images/test.jpg);
+  background-repeat: no-repeat;
+  background-position: 0;
+  background-size: 20%;
+}
